@@ -1,8 +1,4 @@
-/*
-* Descrição: Implementação do MergeSort
-* Autor: Marcos B. Campos
-* Ano: 2021
-*/
+
 
 #ifndef MERGE_SORT
 #define MERGE_SORT

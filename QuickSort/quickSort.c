@@ -1,5 +1,5 @@
 #include "quickSort.h"
-#include "../Utils/utils.h"
+#include "../utils.h"
 
 int partition(int *v, int low, int high)
 {

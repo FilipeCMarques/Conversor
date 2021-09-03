@@ -1,5 +1,5 @@
 #include "mergeSort.h"
-#include "../Utils/utils.h"
+#include "../utils.h"
 
 void merge(int *v, int l, int mid, size_t size)
 {
