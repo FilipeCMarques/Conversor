@@ -1,5 +1,5 @@
 /**********
-Descricao: Funcoes auxiliares para criação do MergeSort e HeapSort
+Descricao: Funcoes auxiliares para criação do MergeSort
 **********/
 #ifdef __cplusplus
 extern "C"
