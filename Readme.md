@@ -4,7 +4,7 @@
 
 Nesse projeto, foi desenvolvido 4 tipos de ordenacao de dados.
 
-* BubbleSort
+* InsertionSort
 * CountingSort
 * MergeSort
 * QuickSort
