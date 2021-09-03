@@ -1,5 +1,5 @@
 #include "insertionSort.h"
-#include "../Utils/utils.h"
+#include "../utils.h"
 
 void insertionSort(int *v, size_t size){
     int i, j, chave;
